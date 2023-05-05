@@ -1,0 +1,44 @@
+{
+    "countries":
+    [
+        {
+            "Country": "USA", "budget": "732"
+        },
+        {
+            "Country": "China", "budget": "178"
+        },
+        {
+            "Country": "INDIA", "budget": "73"
+        },
+        {
+            "Country": "UK", "budget": "56"
+        },
+        {
+            "Country": "JAPAN", "budget": "51"
+        },
+        {
+            "Country": "SAUDI ARAB", "budget": "48"
+        },
+        {
+            "Country": "RUSSIA", "budget": "43"
+        },
+        {
+            "Country": "FRANCE", "budget": "42"
+        },
+        {
+            "Country": "UAE", "budget": "23"
+        },
+        {
+            "Country": "TURKEY", "budget": "18"
+        },
+        {
+            "Country": "ISRAEL", "budget": "17"
+        },
+        {
+            "Country": "PAKISTAN", "budget": "11"
+        },
+        {
+            "Country": "IRAQ", "budget": "08"
+        }
+    ]
+}

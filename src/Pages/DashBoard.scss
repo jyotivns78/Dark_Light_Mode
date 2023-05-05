@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+
+
+.darklight header nav
+{
+    padding: 3px;
+    height: 40px;
+    display: flex;
+    // background: var(--main-heading);
+    background: transparent;
+    justify-content: right;
+    img {
+        position: absolute;
+        // top: 10px;
+        left: 10px;
+        height: 40px;
+        width: 200px;
+    }
+}
+
+
+
+header nav ul {
+    margin-top: 0px;
+    color: #1d474d;
+}
+
+header nav ul:last-child {
+    margin-right: 30px;
+}
+
+header nav ul li {
+    // margin-left: 10px;
+    // margin-top: -20px;
+    padding-bottom: 10px;
+    padding: 6px;
+    display: inline-block;
+    text-decoration: none;
+    color: #1d474d;
+}
+
+header nav ul li a
+{
+    display: inline;
+    margin-left: 30px;
+    font-size: 16px;
+    // color: #FFFFFF;
+    color: #1d474d;
+    font-family: 'Poppins';
+    cursor: pointer;
+    text-decoration: none;
+}
+
+header nav ul li a:hover
+{
+    color: #FFFFFF;
+}
+
+.darklight
+{
+    /* background: rgb(54, 134, 134); */
+    background: var(--bg-clr);
+    width: 100%;
+    height: 100vh;
+}
+
+.darklight h1
+{
+    color: var(--para-clr);
+    font-size: 40px;
+}
+
+.hero-section-data p
+{
+    color: var(--para-clr);
+    width: 450px;
+    position: absolute;
+    left: 160px;
+    top: 250px;
+    font-size: 18px;
+    font-family: 'Poppins';
+}
+
+.hero-section-data .btn
+{
+    position: absolute;
+    left: 320px;
+    top: 430px;
+    height: 35px;
+    width: 130px;
+    border-radius: 15px;
+    /* background-color: rgb(10, 43, 38); */
+    background-color: var(--btn-bg-color);
+    color: #FFFFFF;
+    font-size: 18px;
+    padding: 5px;
+    font-family: 'Poppins';
+    text-decoration: none;
+    border: 1px solid #FFFFFF;
+    cursor: pointer;
+}
+
+.hero-section-image img
+{
+    border-radius: 10px;
+    height: 320px;
+    width: 290px;
+    position: absolute;
+    right: 150px;
+    top: 210px;
+}
+
+.moonLight {
+    position: absolute;
+    top: 10px;
+    margin-left: 20px;
+    height: 25px;
+    width: 25px;
+}
+
+// *********************************************
+
+.dark-theme {
+    --main-heading: darkslategrey;
+    --para-clr: #fff;
+    --btn-bg-color: #5f99be;
+    --btn-text-clr: #fff;
+    --bg-clr: rgb(54, 134, 134);
+  }
+  
+  
+  .light-theme{
+    --main-heading: darkslategrey;
+    --para-clr: #1d474d;
+    --btn-bg-color: rgb(10, 43, 38);
+    --btn-text-clr: #fff;
+    --bg-clr: #fff;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
